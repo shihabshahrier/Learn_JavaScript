@@ -6,4 +6,4 @@ our_dic = {
         return (this.jamil - this.shihab)
     }
 };
-console.log(our_dic.mikdad)
+console.log(our_dic.mikdad())
