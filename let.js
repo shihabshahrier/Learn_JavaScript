@@ -1,3 +1,3 @@
 // not allowed
-let x = "John Doe";
-let x = 0;
+// let x = "John Doe";
+// let x = 0;
