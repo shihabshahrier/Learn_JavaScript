@@ -7,3 +7,4 @@ b = a;
 b--; // decrement operator
 
 console.log(b);
+

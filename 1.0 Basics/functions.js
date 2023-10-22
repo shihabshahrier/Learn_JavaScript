@@ -1,6 +1,8 @@
-let p=4;
-let q=3;
-function multiplication(p,q) {
-    return p*q;
+function multiplication(p, q) {
+    return p * q;
 }
-console.log(multiplication)
+let p, q, result;
+p = 5;
+q = 6;
+result = multiplication(p, q);
+console.log(result);
