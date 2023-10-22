@@ -5,7 +5,7 @@ z=x+y;
 console.log(z)
 // It's a math process of JS
 /* 
-Nice math proces
+Nice math process
 Everyone should learn JavaScript
 So that they can do well in devoloper site
 */
